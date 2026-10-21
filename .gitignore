@@ -1,0 +1,17 @@
+build/
+out/
+bin/
+target/
+.idea/
+.metadata/
+.settings/
+*.class
+*.iml
+*.zip
+*.rar
+.classpath
+.project
+data/*.csv
+data/*.bin
+data/*.txt
+!data/exemplo.csv
